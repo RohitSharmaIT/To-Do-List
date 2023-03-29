@@ -65,8 +65,6 @@ To use this to-do list app, follow these simple steps:
 - Click the "Delete" button next to the task you want to delete.
 - Delete completed tasks:
 
-Click the "Delete Completed Tasks" button to remove all completed tasks from your list.
-
 ### List Saved automatically:
 - Your tasks will be automatically saved as you make changes.
 - To view your full to-do list when ever you open the app.
