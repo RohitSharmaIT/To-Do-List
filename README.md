@@ -108,7 +108,7 @@ Hello, I'm Rohit Sharma, a web developer with 3 years of experience in the field
 - Node.js
 ## Feedback
 
-If you have any feedback, please reach out to us at 28rohitsharmait@gmail.com
+If you have any feedback, please reach out to me at 28rohitsharmait@gmail.com
 
 
 ## 🔗 Links
